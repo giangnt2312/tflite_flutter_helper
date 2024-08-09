@@ -16,7 +16,7 @@ dependencies:
     git:
       url: https://github.com/giangnt2312/tflite_flutter_plugin_0.9.git
       ref: master
-  image: ^3.0.2
+  image: ^4.1.7
   tuple: ^2.0.0
 
 dev_dependencies:
